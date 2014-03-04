@@ -62,4 +62,4 @@ Add finish block for all http methods in AFHttpRequestOperationManager.
                             
                             
                             
-It's just a pull request, and they think it is not neccessary.
+They think it is not neccessary, but i think this is a more elegant solution.
